@@ -11,6 +11,23 @@
 yarn add react-native-commonselect
 ```
 
+Generate ttf file
+```bash
+  if ("react-native-vector-icons" in package.json){
+    react-native link
+  }
+  else{
+    Insert into package.json
+    "dependencies": {
+    ...
+    "react-native-vector-icons": "^6.6.0",
+    ...
+    }
+    react-native link
+    Delete react-native-vector-icons": "^6.6.0" from package.json
+  }
+```
+
 ## CommonSelectTree Usage
 ```javascript
 import React from "react";
