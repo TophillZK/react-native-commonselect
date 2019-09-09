@@ -1,0 +1,29 @@
+{
+  "name": "react-native-commonselect",
+  "version": "1.0.3",
+  "description": "react native select component",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TophillZK/react-native-commonselect"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "select",
+    "tree"
+  ],
+  "author": "TophillZK",
+  "license": "",
+  "dependencies": {
+    "react-native-commonicon": "^1.0.1",
+    "prop-types": "^15.6.2"
+  },
+  "devDependencies": {},
+  "peerDependencies": {}
+}
