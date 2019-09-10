@@ -2,8 +2,8 @@
 # React Native Common Select
 
 <p align="center">
-  <img src ="https://github.com/TophillZK/react-native-commonselect/blob/master/ExampleTree.png" />
-  <img src ="https://github.com/TophillZK/react-native-commonselect/blob/master/ExampleListPanel.png" />
+  <img src ="https://github.com/TophillZK/react-native-commonselect/blob/master/ExampleTree.gif" />
+  <img src ="https://github.com/TophillZK/react-native-commonselect/blob/master/ExampleListPanel.gif" />
 </p>
 
 ## Getting started
